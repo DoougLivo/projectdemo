@@ -246,7 +246,6 @@ public class UserController {
 				System.out.println("취미 삭제됨");
 				
 //				System.out.println("취미코드 : "+h_code_id);
-//				System.out.println("@@@@@@@@@@@@ hDto : "+hDto);
 				
 				// 임시로 저장하기 위해 만듬
 				UserHDto newUHDto = new UserHDto();
